@@ -1,4 +1,4 @@
-# @brangor/cli-ui
+# @grabnar/cli-ui
 
 A utility library for creating CLI interfaces with a teeny bit of razmataz.
 
@@ -17,7 +17,7 @@ A utility library for creating CLI interfaces with a teeny bit of razmataz.
 ## 📦 Installation
 
 ```bash
-npm install @brangor/cli-ui
+npm install @grabnar/cli-ui
 ```
 
 ## 🎯 CLI Demo Tool
@@ -47,7 +47,7 @@ The CLI tools are perfect for:
 ## 🎯 Quick Start
 
 ```javascript
-import { CLIUI } from '@brangor/cli-ui';
+import { CLIUI } from '@grabnar/cli-ui';
 
 const ui = new CLIUI();
 

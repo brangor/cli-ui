@@ -1,19 +1,16 @@
 {
-  "name": "@brangor/cli-ui",
-  "version": "1.0.0",
+  "name": "@grabnar/cli-ui",
+  "version": "1.0.1",
   "description": "A utility library for creating CLI interfaces with a teeny bit of razmataz",
   "main": "src/index.js",
   "module": "src/index.js",
   "types": "src/index.d.ts",
   "type": "module",
+  "private": false,
   "exports": {
     ".": {
       "import": "./src/index.js"
     }
-  },
-  "bin": {
-    "cli-ui": "bin/cli-ui.js",
-    "cli-ui-demo": "bin/cli-ui-demo.js"
   },
   "files": [
     "src/",
